@@ -12,7 +12,7 @@
 
 
 
-<h2> About Me <img src = "<iframe width="1236" height="695" src="https://www.youtube.com/embed/zklsXVOW5iA" title="MGK666 - Telefon La Parnaie feat. ALBERT NBN (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>" width = 100px></h2>
+<iframe width="1236" height="695" src="https://www.youtube.com/embed/zklsXVOW5iA" title="MGK666 - Telefon La Parnaie feat. ALBERT NBN (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
