@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ianis</h1>
 <h3 align="center">A passionate frontend developer from Romania</h3>
-
+<img width="" height = "" src="https://i.imgur.com/HxNdZj3.gif" alt="cover" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianisro&label=Profile%20views&color=0e75b6&style=flat" alt="ianisro" /> </p>
 
 - 🔭 I’m currently working on **EpicPlay**
