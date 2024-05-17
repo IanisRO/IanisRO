@@ -1,6 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Ianis</h1>
-<img width="1000" height = "500" src="https://www.youtube.com/watch?v=wkjD64wS96A" alt="cover" />
+<html>
+<body>
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+  Your browser does not support the video tag.
+</video>
+
+</body>
+</html>
+
+
 <h3 align="center">A passionate frontend developer from Romania</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianisro&label=Profile%20views&color=0e75b6&style=flat" alt="ianisro" /> </p>
 
