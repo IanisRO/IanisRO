@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ianis</h1>
-<img width="" height = "" src="https://i.imgur.com/HxNdZj3.gif" alt="cover" />
+<img width="" height = "" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU5YWo1dG14dmx2Ym52bjhzcGphYnkzZm9lYW8zdWRnMWpwcHU5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pe9ScFJtUHNhfsj6SG/giphy.gif" alt="cover" />
 <h3 align="center">A passionate frontend developer from Romania</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianisro&label=Profile%20views&color=0e75b6&style=flat" alt="ianisro" /> </p>
 
