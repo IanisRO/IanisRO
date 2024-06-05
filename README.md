@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **FiveM**
 
-- 📫 How to reach me **dragoiianis4@gmail.com**
+- 📫 How to reach me **stocareianis@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
